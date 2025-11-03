@@ -2545,7 +2545,7 @@
 		(descr "Alps/Matias keyswitch")
 		(tags "Alps Matias Keyboard Keyswitch Switch Plate Cutout")
 		(property "Reference" "REF**"
-			(at 0 8 -90)
+			(at 0 8 270)
 			(layer "F.SilkS")
 			(uuid "3e473467-dce9-47ad-9dc5-b1be8486b22b")
 			(effects
@@ -2556,7 +2556,7 @@
 			)
 		)
 		(property "Value" "SW_Alps_Matias"
-			(at 0 -8 -90)
+			(at 0 -8 270)
 			(layer "F.Fab")
 			(uuid "ecc0b6a4-617d-4c80-a18c-8b178ba52146")
 			(effects
@@ -3078,8 +3078,8 @@
 		(uuid "30439d65-533f-4fc8-b891-2a01efa5a1af")
 	)
 	(gr_circle
-		(center 97.028 97.028)
-		(end 97.028 94.742)
+		(center 97.282 97.409)
+		(end 97.282 95.123)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -3131,8 +3131,8 @@
 		(uuid "d417899a-09ad-46e7-b99a-7372e65f5c41")
 	)
 	(gr_circle
-		(center 97.028 148.082)
-		(end 97.028 145.796)
+		(center 97.282 147.701)
+		(end 97.282 145.415)
 		(stroke
 			(width 0.05)
 			(type default)
